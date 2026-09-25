@@ -179,6 +179,10 @@ This project is part of my professional portfolio and demonstrates my ability to
 
 ## 👩‍💻 Pilar Girón
 
+**+34 651885750
+
+**pilargijor@hotmail.es
+
 **Junior Full Stack Web Developer**
 
 **Open to Work · Immediate Availability**
