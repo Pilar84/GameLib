@@ -1,6 +1,17 @@
 # 🎮 GameLib
 
-### Junior Full Stack Web Developer · React · TypeScript · Python · Django · PostgreSQL · Docker
+### Pilar Girón · Junior Full Stack Web Developer
+
+📧 **[pilargijor@hotmail.es](mailto:pilargijor@hotmail.es)**
+📞 **+34 651 885 750**
+📍 **Córdoba, Spain**
+💼 **Open to Work · Immediate Availability**
+💻 **GitHub:** https://github.com/Pilar84
+🌐 **Live Demo:** https://gamelib.pipayplata.com
+
+---
+
+### React · TypeScript · Python · Django · PostgreSQL · Docker
 
 **GameLib is a full-stack web application that I designed, developed and deployed as a portfolio project.**
 
@@ -179,15 +190,14 @@ This project is part of my professional portfolio and demonstrates my ability to
 
 ## 👩‍💻 Pilar Girón
 
-**+34 651885750
-
-**pilargijor@hotmail.es
-
 **Junior Full Stack Web Developer**
 
 **Open to Work · Immediate Availability**
 
 📍 Córdoba, Spain
+
+📧 **[pilargijor@hotmail.es](mailto:pilargijor@hotmail.es)**
+📞 **+34 651 885 750**
 
 💻 GitHub: https://github.com/Pilar84
 🌐 GameLib: https://gamelib.pipayplata.com
